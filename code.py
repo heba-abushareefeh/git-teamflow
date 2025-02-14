@@ -1,1 +1,1 @@
-print("......")
+print("Line 1")
