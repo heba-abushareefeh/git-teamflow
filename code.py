@@ -1,1 +1,1 @@
-print("Line 1 by mohammad")
+print("Line 1")
